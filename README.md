@@ -1,6 +1,4 @@
-﻿# Face Recogition Attandance System
-
-# Face Recognition Attendance System
+﻿# Face Recognition Attendance System
 
 ## Overview
 
